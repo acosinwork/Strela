@@ -125,6 +125,13 @@ void motorSpeed(uint8_t motor, int speed);
 void motorConnection(
     bool direction_1,
     bool direction_2);
+/*
+class LCD {
+public:
+    void begin(uint16_t updateFreq);
+*/
 
+
+}
 
 #endif
